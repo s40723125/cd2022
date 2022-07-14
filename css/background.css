@@ -1,0 +1,16 @@
+.avatar{
+    height: 20vw;
+    width: 20vw;
+    background-color: #7C7C7C;
+    text-align: center;
+    float: left;
+}
+.introduction{
+    width: 100vw;
+    height: 20vW;
+    background-color: rgb(226, 129, 129);
+    text-align: center;
+
+
+    
+}
